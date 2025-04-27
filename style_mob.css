@@ -1,0 +1,91 @@
+@media (max-width: 375px) {
+  .container {
+    max-width: 375px;
+    padding: 0 5px;
+  }
+  /* header */
+  .bash a {
+    font-size: 16px;
+    margin-left: 13px;
+  }
+  .wrapper img {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+  }
+  .wrapper {
+    justify-content: space-between;
+    margin-top: 15px;
+  }
+
+  ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    margin-left: 60px;
+    font-size: 12px;
+    width: 150px;
+  }
+  .burger {
+    display: flex;
+    position: relative;
+    z-index: 1001;
+    right: -140px;
+  }
+
+  .nav-menu {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 70%;
+    max-width: 220px;
+    height: 100vh;
+    background: #fff;
+    box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
+    transition: right 0.5s ease;
+    z-index: 1000;
+    padding: 50px 0px;
+  }
+
+  .nav-menu.active {
+    right: 0;
+  }
+
+  .nav-menu ul {
+    flex-direction: column;
+    gap: 15px;
+    margin-left: 20px;
+  }
+
+  .bash a {
+    font-size: 28px;
+  }
+
+  /* footer */
+  .footer {
+    padding-top: 10px;
+    align-items: center;
+    gap: 10px;
+  }
+  .bash1 a {
+    font-size: 12px;
+    margin-left: 12px;
+  }
+  .footer img {
+    width: 30px;
+    height: 30px;
+  }
+  .footer {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .nav1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+    margin-left: 50px;
+    font-size: 12px;
+  }
+}
