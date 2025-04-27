@@ -1,0 +1,115 @@
+@media (max-width: 375px) {
+  /* section1 */
+  .info h2 {
+    text-align: center;
+    margin: auto;
+    width: 355px;
+    font-size: 17px;
+    margin-top: 20px;
+  }
+  .info h3 {
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+  .block p {
+    font-size: 11px;
+
+  }
+  .sp1 {
+    margin-left: 5px;
+    margin-right: 0px;
+  }
+  .sp2 {
+    margin-left: 40px;
+    margin-right: 0px;
+  }
+  .sp3 {
+    margin-left: 40px;
+    margin-right: 0px;
+  }
+  /* setion4 */
+  .docs h2 {
+    margin: auto;
+    font-size: 17px;
+    text-align: center;
+    width: 340px;
+    margin-top: 20px;
+
+  }
+  .action {
+    margin: auto;
+    width: 305px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 15px;
+  }
+  .korp {
+    margin: auto;
+    width: 305px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 15px;
+  }
+
+  .birg {
+    margin: auto;
+    width: 305px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 15px;
+  }
+  .knopki {
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+  }
+
+  .block img {
+    width: 30px;
+    height: 30px;
+  }
+  .block {
+    width: 365px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+
+    justify-content: space-between;
+    text-align: justify;
+  }
+  .blocks1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .btn {
+    margin: auto;
+    width: 305px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  .btn a {
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+  }
+
+
+}

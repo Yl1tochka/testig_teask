@@ -1,0 +1,136 @@
+@media (max-width: 375px) {
+  /* section1 */
+  .securities h2 {
+    text-align: center;
+    width: 350px;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .securities h3 {
+    width: 350px;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 5px;
+  }
+  .securities img {
+    width: 355px;
+    height: 255px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  .securities p {
+
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .securities li {
+    font-size: 12px;
+    margin-top: 15px;
+  }
+  .li img {
+    width: 10px;
+    height: 10px;
+    margin-right: 15px;
+  }
+
+  /* section2 */
+  .btn1 {
+    margin: auto;
+    width: 305px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 15px;
+  }
+  .btn2 {
+    margin: auto;
+    width: 305px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 15px;
+  }
+  .btn3 {
+    margin: auto;
+    width: 305px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 15px;
+  }
+
+  .knopki {
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  /* section3 */
+  .actions h2 {
+    text-align: center;
+    width: 350px;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .actions p {
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  /* section4 */
+  .btn_g {
+    margin: auto;
+    width: 305px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: -5px 20px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 7px;
+  }
+  .btn_gr {
+    margin: auto;
+    width: 305px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 15px;
+  }
+  .txt h4 {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 3px;
+  }
+  .txt p {
+    font-weight: 300;
+    font-size: 12px;
+    margin-top: 20px;
+  }
+
+  .blocks {
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+
+}
